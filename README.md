@@ -19,7 +19,7 @@ The login page is common for students and teachers.
 The username is their name and password for everyone is 'project123'.
 
 Example usernames:
-student- 'ishneha'
+student- 'sarthak'
 teacher- 'trisila'
 
 You can access the django admin page at http://127.0.0.1:8000/admin and login with username 'admin' and the above password.
@@ -54,6 +54,24 @@ This will delete all present attendance data and create new attendance objects f
 
 ![WhatsApp Image 2025-04-30 at 23 21 53_535c393f](https://github.com/user-attachments/assets/12d84f03-456f-4794-a730-b812fdf66e77)
 
-![WhatsApp Image 2025-04-30 at 23 25 09_6dbb9b4b](https://github.com/user-attachments/assets/daa1ee5a-fe54-4c4b-a0f1-e8527fd7cabb)
+![WhatsApp Image 2025-04-30 at 23 35 58_305bf0c1](https://github.com/user-attachments/assets/1a105c35-1c3d-4064-9729-3e9f45da8949)
+
+![WhatsApp Image 2025-04-30 at 23 31 57_593e78df](https://github.com/user-attachments/assets/0ab98ffc-6801-4b8b-9096-d632a09f631a)
+
+![WhatsApp Image 2025-04-30 at 23 32 38_a8766410](https://github.com/user-attachments/assets/86a83afa-0cde-492e-a06a-da07bf577f54)
+
+![WhatsApp Image 2025-04-30 at 23 45 15_2cbbffea](https://github.com/user-attachments/assets/f882a7c6-9882-458e-903b-7a966efea319)
+
+![WhatsApp Image 2025-04-30 at 23 32 58_9531a4d9](https://github.com/user-attachments/assets/45885ef4-a33e-4107-a370-411fd0672cad)
+
+![WhatsApp Image 2025-04-30 at 23 33 15_9a7a6ac7](https://github.com/user-attachments/assets/3c148336-dd74-4451-bea9-0fd8b7481a7f)
+
+**Admin Page**
+
+![WhatsApp Image 2025-04-30 at 23 40 10_e6cb878d](https://github.com/user-attachments/assets/d81ff8ec-491e-4ad6-8db2-6dd33d8c0477)
+
+![WhatsApp Image 2025-04-30 at 23 40 23_c4449c40](https://github.com/user-attachments/assets/c2e1d11b-f6be-40ab-9535-3e226d2a8ce9)
+
+![WhatsApp Image 2025-04-30 at 23 40 37_9a8ac74e](https://github.com/user-attachments/assets/94166d8c-b307-4b27-b696-04e2a44900b1)
 
 
