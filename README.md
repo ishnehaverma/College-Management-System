@@ -37,7 +37,7 @@ st
 
 For more details regarding the system and features please refer the reports included.
 
-# Update (29/11/2020)
+# Update (25/04/2025)
 
 Added method to reset attendance time range in Django Admin page.
 
