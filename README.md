@@ -52,3 +52,8 @@ This will delete all present attendance data and create new attendance objects f
 # Screenshots
 **Teacher Page**
 
+![WhatsApp Image 2025-04-30 at 23 21 53_535c393f](https://github.com/user-attachments/assets/12d84f03-456f-4794-a730-b812fdf66e77)
+
+![WhatsApp Image 2025-04-30 at 23 25 09_6dbb9b4b](https://github.com/user-attachments/assets/daa1ee5a-fe54-4c4b-a0f1-e8527fd7cabb)
+
+
