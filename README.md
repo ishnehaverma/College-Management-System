@@ -37,5 +37,18 @@ st
 
 For more details regarding the system and features please refer the reports included.
 
+# Update (29/11/2020)
 
+Added method to reset attendance time range in Django Admin page.
+
+![WhatsApp Image 2025-04-30 at 19 14 40_d717277d](https://github.com/user-attachments/assets/252135b2-03ac-4380-9c3c-eeb891acbd9e)
+
+This is present in Django Admin -> Attendance (http://127.0.0.1:8000/admin/info/attendanceclass/).
+Start Date: Start Date of Attendance period
+End Date: End Date of Attendance period
+
+This will delete all present attendance data and create new attendance objects for the given time range.
+
+# Screenshots
+**Teacher Page**
 
